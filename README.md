@@ -25,6 +25,7 @@
 #### Note:
 ##### This code is pretty based on my previous one for channels: https://github.com/owersite/channels-exploit
 ##### You can take a look at that too!
+##### Note: It will say "?" for every char that has abnormal font.
 
 
 ## Disclaimer:
