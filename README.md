@@ -12,10 +12,11 @@
 ###### Copy and Paste it in your code.
 
 
+
+
+##### This code is pretty based on my previous one for channels: https://github.com/owersite/channels-exploit
+##### You can take a look at that too!
+
+
 ## Disclaimer:
 #### Owersite(creator) is not is not resposible for whatever you do with this, it is made for educational purposes only!
-
-
-##### This code is pretty based on my previous one for channels: 
-##### https://github.com/owersite/channels-exploit
-##### You can take a look at that too!
