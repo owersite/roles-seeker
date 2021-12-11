@@ -5,6 +5,15 @@
 
 #### With this "exploit" you can see every existing role, no one has to have it!
 
+
+## How to use & what do you need?
+- Install Anarchy API Wrapper
+- NuGet Install everything that is needed! (ex. Newtonsoft Json Schema)
+- Change guildid & token in Program.cs to your channel id!
+- You are set & ready to go!
+
+
+
 ### How to grab your token?
 
 ###### Press Ctrl + Shift + I and go to Application like showed in step 1, then go to Local storage and in filter write token and you will see it like it's shown in picture below
@@ -13,7 +22,7 @@
 
 
 
-
+#### Note:
 ##### This code is pretty based on my previous one for channels: https://github.com/owersite/channels-exploit
 ##### You can take a look at that too!
 
