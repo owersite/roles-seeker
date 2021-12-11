@@ -11,5 +11,11 @@
 ![image](https://user-images.githubusercontent.com/60113773/145685522-7f46623b-f766-4d6b-a7db-bfbb9645000e.png)
 ###### Copy and Paste it in your code.
 
+
+## Disclaimer:
+#### Owersite(creator) is not is not resposible for whatever you do with this, it is made for educational purposes only!
+
+
 ##### This code is pretty based on my previous one for channels: 
 ##### https://github.com/owersite/channels-exploit
+##### You can take a look at that too!
