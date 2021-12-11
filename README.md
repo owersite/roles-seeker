@@ -9,7 +9,7 @@
 ## How to use & what do you need?
 - Install Anarchy API Wrapper
 - NuGet Install everything that is needed! (ex. Newtonsoft Json Schema)
-- Change guildid & token in Program.cs to your channel id!
+- Change server_id & token in Program.cs to your server id & token!
 - You are set & ready to go!
 
 
